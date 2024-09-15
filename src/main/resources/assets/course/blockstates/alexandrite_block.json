@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "course:block/alexandrite_block"
+    }
+  }
+}
