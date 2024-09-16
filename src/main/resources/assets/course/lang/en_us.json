@@ -3,5 +3,7 @@
   "item.course.raw_alexandrite": "Raw Alexandrite",
 
   "block.course.alexandrite_block": "Block of Alexandrite",
-  "block.course.raw_alexandrite_block": "Block of Raw Alexandrite"
+  "block.course.raw_alexandrite_block": "Block of Raw Alexandrite",
+
+  "creativetab.course_tab": "Course Tab"
 }
