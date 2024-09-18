@@ -4,6 +4,11 @@
 
   "block.course.alexandrite_block": "Block of Alexandrite",
   "block.course.raw_alexandrite_block": "Block of Raw Alexandrite",
+  "block.course.alexandrite_ore": "Alexandrite Ore",
+  "block.course.deepslate_alexandrite_ore": "Deepslate Alexandrite Ore",
+  "block.course.end_stone_alexandrite_ore": "End Stone Alexandrite Ore",
+  "block.course.nether_alexandrite_ore": "Nether Alexandrite Ore",
+
 
   "creativetab.course_tab": "Course Tab"
 }
