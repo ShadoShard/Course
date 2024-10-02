@@ -1,6 +1,7 @@
 {
   "item.course.alexandrite": "Alexandrite",
   "item.course.raw_alexandrite": "Raw Alexandrite",
+  "item.course.metal_detector": "Metal Detector",
 
   "block.course.alexandrite_block": "Block of Alexandrite",
   "block.course.raw_alexandrite_block": "Block of Raw Alexandrite",
@@ -10,5 +11,7 @@
   "block.course.nether_alexandrite_ore": "Nether Alexandrite Ore",
 
 
-  "creativetab.course_tab": "Course Tab"
+  "creativetab.course_tab": "Course Tab",
+
+  "item.course.metal_detector.no_valuables": "No Valuable Found"
 }
