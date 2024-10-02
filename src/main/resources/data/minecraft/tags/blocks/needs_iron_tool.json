@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "course:alexandrite_block",
+    "course:raw_alexandrite_block",
+    "course:alexandrite_ore"
+  ]
+}

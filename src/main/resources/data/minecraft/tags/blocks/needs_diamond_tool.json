@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "course:deepslate_alexandrite_ore",
+    "course:end_stone_alexandrite_ore",
+    "course:nether_alexandrite_ore"
+  ]
+}
